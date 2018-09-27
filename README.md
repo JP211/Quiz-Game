@@ -1,2 +1,2 @@
 # Quiz-Game
-An ios quiz game
+A basic quiz game - ios
